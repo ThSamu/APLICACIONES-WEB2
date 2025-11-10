@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantilla</title>
+    <meta name="description" content="Esto es la descripción de mi página web">
+    <meta name="keywords" content="html, ejercicio, ejercicio1, ejemplo">
+    <meta name="author" content="Sonia Rufino Ruiz">
+    <meta name="application-name" content="Plantilla.html">
+    <meta name="generator" content="VSCode">
+    <link rel="icon" sizes="64x64" href="174854.png" type="./assets/icons/174854.png">
+</head>
+<body>
+<h1>Ejercicio multimedia</h1>
+    <img src="imagen1.jpg" alt="Imagen de ejemplo" width="200" height="100">
+    <img src="imagen1.jpg" alt="Imagen de ejemplo" width="200" height="100">
+    <img src="imagen1.jpg" alt="Imagen de ejemplo" width="200" height="100">
+    <iframe src="https://es.wikipedia.org/wiki/Wikipedia:Portada" width="600" height="400">
+</iframe>
+
+<h1>Ejercicio video</h1>
+    <video width="" height="" controls>
+        <source src="" type="" >
+    </video>
+    <video width="" height="" controls>
+        <source src="" type="" >
+    </video>
+    <video width="" height="" controls>
+        <source src="" type="" >
+    </video>
+</body>
+</html>
